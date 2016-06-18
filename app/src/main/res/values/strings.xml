@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn">Добавить</string>
+    <string name="btnActivity2">Сохранить</string>
+
+    <string name="Name">Имя</string>
+    <string name="LastName">Фамилия</string>
+    <string name="Age">Возраст</string>
+</resources>
